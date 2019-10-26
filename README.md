@@ -1,6 +1,6 @@
 # Docker-Node-Mongo
 
-> Simple example of a dockerized Node/Mongo app
+> A simple dockerise node-mongo application hosted on digital ocean
 
 ## Quick Start
 
