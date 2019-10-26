@@ -1,4 +1,4 @@
-# Docker Node MongoDB Example
+# Docker-Node-Mongo
 
 > Simple example of a dockerized Node/Mongo app
 
