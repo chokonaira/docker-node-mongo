@@ -1,6 +1,6 @@
 # Docker-Node-Mongo
 
-> A simple dockerise node-mongo application hosted on digital ocean
+> A simple dockerise node-mongo application
 
 ## Quick Start
 
